@@ -1,0 +1,3 @@
+[submodule "Plugins/DynamicalSystems"]
+	path = Plugins/DynamicalSystems
+	url = git@github.com:rozgo/UE4-DynamicalSystems.git
